@@ -1,0 +1,51 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "fb983e5ea25f59adc0cfb77929585c165fbcf07578d7727448b329824f166fde"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "0c2a00cdbcf84f32ed8c6232e94cadb586bf1280d6b922818db808c16c6d8a77"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "9cb9fbb7431ed58a8bb7bf25d1b9fcc8706fc57400db7acffef06e25971552fa"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "8c7aec9e376eb3f10da62109594e1ac6b7bc92da8e9c080f8f8f5a736051f339"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "85b7612aaf49e6c2eac33697e6d909f2e94adadc50d0bc706d9a552a0ac95d51"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "6223e0994b9141d83426fc3e3a84b71d1db39e1cfd142e2789a9aaeb21819ebc"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "5ff8e394478f56b131ef90b797a3b4a273c9c4faaa4853dd1289c7ebddda111a"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "e243aee66d3bce50082e7d61936f535688002ea81d021d0808fd6cdd40b6bd66"
+metafile = true

@@ -1,0 +1,13 @@
+name = "TanZil Modern"
+author = "TanZil"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7d0961d1697aac35928a29d120758d6c1aedd23c2e00af036d1080a6e4d15419"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "1.21.11"
